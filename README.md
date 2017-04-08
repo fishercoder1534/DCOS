@@ -8,7 +8,7 @@ Steps:
 2. Click Next, give it a name, leave all as default;
 3. After your cluster stack spins up, click on the Outputs tab and copy/paste the Mesos Master hostname into your browser to open the DC/OS web interface.
 Here's the screenshot when you access the Web UI: 
-![screenshot](https://ibb.co/jsZJT5)
+![screenshot](https://i.imgsafe.org/94b18321ba.jpeg)
 
 4. Installed DCOS cli: $cd && $curl -O https://downloads.dcos.io/binaries/cli/darwin/x86-64/dcos-1.9/dcos (for OS X)
 5. $chmod +x dcos
